@@ -27,6 +27,8 @@ fullstack dev · react native + expo · functional programming nerd<br><sub>thes
   </a>
 </p>
 
+<p align="center"><b>🧊 same thing, but 3D</b></p>
+
 <p align="center">
   <a href="https://tokscale.ai/u/harrisrobin">
     <picture>
